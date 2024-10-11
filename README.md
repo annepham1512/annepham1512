@@ -35,7 +35,7 @@
 💬 Ask me about my projects.
 
 📫 How to reach me:  
-- LinkedIn [LinkedIn](https://www.linkedin.com/in/nguyen-quynh-anh-pham-7454a5234/)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nguyen-quynh-anh-pham-7454a5234/)  
 - Email: phamn@dickinson.edu
 
 😄 Pronouns: She/Her
