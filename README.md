@@ -40,6 +40,6 @@
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I love listening to Ludovico Einaudi and Hans Zimmer while studying, Fairy Tail is my childhood show since I kinda sticked up with animes for a while, and I'm a huge fan of Christopher Nolan's movies!
+⚡ Fun fact: I love listening to Ludovico Einaudi and Hans Zimmer while studying, Fairy Tail is my childhood show since I kinda sticked with animes for a while, and I'm a huge fan of Christopher Nolan's movies!
 
 ---
