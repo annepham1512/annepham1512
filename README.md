@@ -20,7 +20,7 @@
 👋 Hi there! I'm Anne, a budding data enthusiast exploring the beauty of data structures and diving into the exhilarating field of deep learning.
 
 🔭 I’m currently learning all the basic about the essence of computer science while working on some personal or group projects, including:
-- Creating an interative web application with **Neural style transfer** using TensorFlow
+- Creating an interative web application with **Neural Style Transfer** using TensorFlow
 - Developing a **Handwritten Digit Classifier** with PyTorch
 - **Landmark Classification & Tagging** for social media
 - **Text Translation and Sentiment Analysis** using Transformers
